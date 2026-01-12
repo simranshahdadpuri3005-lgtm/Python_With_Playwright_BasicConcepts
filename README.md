@@ -4,10 +4,6 @@ This repository is a collection of Python automation scripts using Playwright, d
 
 **What’s Included**
 
-**Playwright Automation Examples**
-
-Automates common web tasks such as Amazon login, home screen interactions, and search result handling. Highlights parameterization, locators, waits, and robust interaction with dynamic web elements.
-
 **OOP Concepts with Examples**
 
 The GenericConceptsWithExamples folder contains Python scripts demonstrating key OOP principles: 
@@ -17,19 +13,6 @@ The GenericConceptsWithExamples folder contains Python scripts demonstrating key
     Inheritance
     Functions & Methods
     Exception Handling 
-
-**Utilities & Helpers**
-
-Reusable scripts for test data handling, helper functions, and demo files, supporting practical Python and Playwright usage.
-
-**Test Automation Framework Structure**
-
-The project is organized to reflect scalable and maintainable test automation practices:
-
-    pages: Page Object Model implementation
-    tests: Pytest test scripts
-    testData: Sample JSON data for multiple credentials
-    utils: Utility scripts
   
 **Key Skills Demonstrated**
 
